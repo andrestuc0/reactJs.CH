@@ -20,6 +20,12 @@ const NavBar = () => {
             <li className="nav-item">
               <a className="nav-link" href="/nosotros">Sobre Nosotros</a>
             </li>
+            <li className="nav-item">
+              <a className="nav-link" href="#">Medios de Pago</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" href="#">Metodos de Envios</a>
+            </li>
           </ul>
           <CartWidget />
         </div>
